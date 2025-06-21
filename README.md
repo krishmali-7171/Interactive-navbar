@@ -18,3 +18,17 @@ It was developed as **Task-01** for my **Web Development Internship at Prodigy I
 - JavaScript (Vanilla)
 
 ## 📁 Project Structure
+## 🔗 Live Demo
+
+[https://krishmali-7171.github.io/Interactive-navbar/](https://krishmali-7171.github.io/Interactive-navbar/)
+
+## 📎 Task Info
+
+- Internship: Prodigy InfoTech  
+- Role: Web Development Intern  
+- Task: 01 – Interactive Navbar  
+- Timeline: June 2025
+
+## 🙌 Acknowledgements
+
+Thanks to [Prodigy InfoTech](https://prodigyinfotech.dev/) for the opportunity to learn and apply real-world front-end skills.
