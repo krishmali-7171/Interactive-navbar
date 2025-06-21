@@ -1,4 +1,4 @@
-##📌 Interactive Navbar Web Project
+📌 Interactive Navbar Web Project
 
 A visually engaging and fully responsive interactive navigation menu built using HTML, CSS, and JavaScript.
 This project was developed as Task-01 for the Web Development Internship at Prodigy InfoTech.
