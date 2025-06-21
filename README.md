@@ -1,64 +1,20 @@
-📌 Interactive Navbar Web Project
+# 🚀 Interactive Navbar Web Project
 
-A visually engaging and fully responsive interactive navigation menu built using HTML, CSS, and JavaScript.
-This project was developed as Task-01 for the Web Development Internship at Prodigy InfoTech.
+This is a fully responsive and animated **interactive navigation bar** built using **HTML, CSS, and JavaScript**.  
+It was developed as **Task-01** for my **Web Development Internship at Prodigy InfoTech**.
 
-⸻
+## ✨ Features
 
-✨ Features
-	•	📌 Fixed navigation bar
-	•	🎨 Style changes on scroll
-	•	🖱️ Smooth hover animations
-	•	📱 Mobile-responsive layout
-	•	🧠 DOM scroll detection with JavaScript
+- 📌 Sticky navigation bar
+- 🎨 Style change on scroll
+- 🖱️ Smooth hover transitions and effects
+- 📱 Mobile responsive design
+- ⚙️ Scroll-based interactivity using JavaScript
 
-⸻
+## 🧰 Tech Stack
 
-🔧 Tech Stack
-	•	HTML5 – Semantic layout
-	•	CSS3 – Styling & responsiveness
-	•	JavaScript (Vanilla) – Scroll detection and interactivity
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)
 
-⸻
-
-🚀 Live Demo
-🌐 Live Link:
-https://krishmali-7171.github.io/Interactive-navbar/
-
-⸻
-
-📁 Project Structure
-
-/Interactive-navbar
-├── index.html       # Main HTML structure
-├── style.css        # Styling and animations
-└── script.js        # JavaScript for scroll-based behavior
-
-
-⸻
-
-🧠 What I Learned
-	•	Handling scroll events with JavaScript
-	•	Styling navigation bars with backdrop filters
-	•	Creating smooth transitions and hover effects
-	•	Responsive UI design and flexbox layout
-
-⸻
-
-📎 Task Info
-	•	Internship: Prodigy InfoTech
-	•	Role: Web Development Intern
-	•	Task: 01 – Interactive Navbar
-	•	Timeline: June 2025
-
-⸻
-
-🙌 Acknowledgements
-
-Thanks to Prodigy InfoTech for offering hands-on frontend development tasks that enhance real-world skills.
-
-⸻
-
-📬 Connect With Me
-	•	LinkedIn
-	•	GitHub
+## 📁 Project Structure
